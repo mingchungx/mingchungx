@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Mingchung</h1>
-<h3 align="center">Computer Science student at University of Waterloo</h3>
+<h3 align="center">University of Waterloo | Computer Science </h3>
+
+Hi, I'm a computer science student at the University of Waterloo. I have 2 years of experience in programming and software development with Python, and currently working on projects in Swift and Java. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
