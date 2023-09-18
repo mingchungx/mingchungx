@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17265
-Fork on GitHub
-4960
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mingchung Xia</h1>
 <h3 align="center">CS @ University of Waterloo</h3>
 
