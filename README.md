@@ -1,8 +1,6 @@
 <h1 align="center">Mingchung Xia</h1>
 <h3 align="center">CS @ University of Waterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mingchungx&label=Profile%20views&color=0e75b6&style=flat" alt="mingchungx" /> </p>
-
 - 📫 Reach me at **m6xia@uwaterloo.ca or mingchung.xia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
