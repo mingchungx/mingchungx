@@ -4,7 +4,7 @@
 
 - Previously, I worked as a software engineering intern at Germany's space agency - DLR. Currently, I'm working on building a B2B/B2C FinTech startup.
 
-- You can reach me at **m6xia@uwaterloo.ca or mingchung.xia@gmail.com**.
+- You can reach me at **m6xia@uwaterloo.ca**, **mingchung.xia@gmail.com**, or **https://www.linkedin.com/in/mingchung-xia/**
 
 ###
 
