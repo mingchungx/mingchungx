@@ -1,7 +1,10 @@
 <h1 align="center">Mingchung Xia</h1>
-<h3 align="center">CS @ University of Waterloo</h3>
 
-- 📫 Reach me at **m6xia@uwaterloo.ca or mingchung.xia@gmail.com**
+👋 I'm a second-year computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital.
+
+- Previously, I worked as a software engineering intern at Germany's space agency - DLR. Currently, I'm working on building a B2B/B2C FinTech startup.
+
+- You can reach me at **m6xia@uwaterloo.ca or mingchung.xia@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
