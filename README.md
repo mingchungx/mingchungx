@@ -6,8 +6,6 @@
 
 - You can reach me at **m6xia@uwaterloo.ca or mingchung.xia@gmail.com**.
 
-<h2 align="left">Mingchung Xia</h2>
-
 ###
 
 <div align="center">
