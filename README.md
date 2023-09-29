@@ -1,8 +1,6 @@
 <h1 align="center">Mingchung Xia</h1>
 
-👋 I'm a second-year computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital.
-
-- Previously, I worked as a software engineering intern at Germany's space agency - [DLR](https://www.dlr.de/de). Currently, I'm working on building a B2B/B2C FinTech startup.
+👋 I'm a second-year computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital. Previously, I worked as a software engineering intern at Germany's space agency, [DLR](https://www.dlr.de/de). Currently, I'm working on building a B2B/B2C FinTech startup.
 
 - Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
 
