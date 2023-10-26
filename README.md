@@ -12,9 +12,9 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 
 <h3 align="left">Achievements</h3>
 
-**Hack The North 2023 Winner 🇨🇦:** selected as a finalist winning project at Canada's biggest hackathon.
-
 **HackHarvard 2023 Winner 🇺🇸:** won the MLH sponsorship prize at Harvard University's collegiate hackathon.
+
+**Hack The North 2023 Winner 🇨🇦:** selected as a finalist winning project at Canada's biggest hackathon.
 
 **David Johnston International Experience Award 🇩🇪:** awarded the maximum support for international co-op.
 
