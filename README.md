@@ -11,6 +11,22 @@ I'm a computer science student at the University of Waterloo! I'm interested in 
 
 **Venture Fellow @ Ripple Ventures 📈:** pursued professional development in venture capital evaluations and networking.
 
+<h3 align="left">Achievements</h3>
+
+**Hack The North 2023 Winner 🇨🇦:** selected as a finalist winning project at Canada's biggest hackathon.
+
+**HackHarvard 2023 Winner 🇺🇸:** won the MLH sponsorship prize at Harvard University's collegiate hackathon.
+
+**David Johnston International Experience Award 🇩🇪:** awarded the maximum support for international co-op.
+
+**UofTHacks 2023 Honourable Mention 🇨🇦:** recognized as a top project at University of Toronto's hackathon.
+
+**President's Scholarship of Distinction 🇨🇦:** awarded the maximum admission and research scholarship.
+
+**Governor General's Academic Medal 🇨🇦:** recipient of Canada's highest academic honour.
+
+**YTBC 2021 Certificate of Excellence 🇸🇬:** selected as a top team at an international business challenge.
+
 <h3 align="left">Skills</h3>
 
 ###
