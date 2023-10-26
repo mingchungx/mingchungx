@@ -1,6 +1,14 @@
 <h1 align="center">Mingchung Xia</h1>
 
-I'm a computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital. Previously, I worked as a software engineering intern at Germany's space agency, [DLR](https://www.dlr.de/de). Currently, I'm working on building a B2B/B2C FinTech startup.
+I'm a computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital.
+
+<h3 align="left">Experiences</h3>
+
+**Co-Founder @ Stealth Startup 💳:** building a B2B/B2C credit optimization FinTech startup.
+
+**Sofware Engineering Intern @ German Aerospace Center (DLR) 🚀:** built thermal analysis software for bimodal fuel cell R&D applications.
+
+**Venture Fellow @ Ripple Ventures 📈:** pursued professional development in venture capital evaluations and networking.
 
 - Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
 
