@@ -7,7 +7,7 @@ I'm a computer science student at the University of Waterloo! I'm interested in 
 
 **Co-Founder @ Stealth Startup 💳:** building a B2B/B2C credit optimization FinTech startup.
 
-**Sofware Engineering Intern @ German Aerospace Center (DLR) 🚀:** engineered thermal analysis software for bimodal fuel cell R&D.
+**Sofware Engineering Intern @ German Aerospace Center (DLR) 🚀:** engineered thermal analysis software for bimodal fuel cell applications.
 
 **Venture Fellow @ Ripple Ventures 📈:** pursued professional development in venture capital evaluations and networking.
 
