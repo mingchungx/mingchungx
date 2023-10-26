@@ -16,13 +16,13 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 
 **Hack The North 2023 Winner 🇨🇦:** selected as a finalist winning project at Canada's biggest hackathon.
 
-**David Johnston International Experience Award 🇩🇪:** awarded the maximum support for international co-op.
+**David Johnston International Experience Award 🇩🇪:** awarded the maximum support for international co-op in Germany.
 
-**UofTHacks 2023 Honourable Mention 🇨🇦:** recognized as a top project at University of Toronto's hackathon.
+**UofTHacks 2023 Honourable Mention 🇨🇦:** recognized as a top project at the University of Toronto's hackathon.
 
-**President's Scholarship of Distinction 🇨🇦:** awarded the maximum admission and research scholarship.
+**President's Scholarship of Distinction 🇨🇦:** awarded Univesity of Waterloo's maximum admission/research scholarship.
 
-**Governor General's Academic Medal 🇨🇦:** recipient of Canada's highest academic honour.
+**Governor General's Academic Medal 🇨🇦:** recipient of Canada's highest academic honour from the Governor General of Canada.
 
 **YTBC 2021 Certificate of Excellence 🇸🇬:** selected as a top team at an international business challenge.
 
