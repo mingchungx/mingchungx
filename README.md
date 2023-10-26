@@ -1,6 +1,7 @@
 <h1 align="center">Mingchung Xia</h1>
 
 I'm a computer science student at the University of Waterloo! I'm interested in software, finance, physics, and venture capital.
+- Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
 
 <h3 align="left">Experiences</h3>
 
@@ -9,8 +10,6 @@ I'm a computer science student at the University of Waterloo! I'm interested in 
 **Sofware Engineering Intern @ German Aerospace Center (DLR) 🚀:** built thermal analysis software for bimodal fuel cell R&D applications.
 
 **Venture Fellow @ Ripple Ventures 📈:** pursued professional development in venture capital evaluations and networking.
-
-- Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
 
 <h3 align="left">Skills</h3>
 
