@@ -1,33 +1,33 @@
-<h1 align="left">👋 Mingchung Xia</h1>
+<h1 align="left">Mingchung Xia</h1>
 
 I'm a computer science student at the University of Waterloo. I'm interested in software, finance, physics, and venture capital. Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
 
 <h3 align="left">Experiences</h3>
 
-**💳 Co-Founder @ Stealth Startup** 
+**Co-Founder @ Stealth Startup 💳** 
 - Building a B2B/B2C credit optimization FinTech startup.
 
-**🚀 Software Engineering Intern @ German Aerospace Center (DLR)**
+**Software Engineering Intern @ German Aerospace Center (DLR) 🚀**
 - Engineered thermal analysis software for bimodal fuel cell applications.
 
-**📈 Venture Fellow @ Ripple Ventures**
+**Venture Fellow @ Ripple Ventures 📈**
 - Pursued professional development in venture capital evaluations and networking.
 
 <h3 align="left">Achievements</h3>
 
-**🇺🇸 HackHarvard 2023 Winner:** won the MLH sponsorship prize at Harvard University's collegiate hackathon.
+**HackHarvard 2023 Winner 🇺🇸:** won the MLH sponsorship prize at Harvard University's collegiate hackathon.
 
-**🇨🇦 Hack The North 2023 Winner:** selected as a finalist winning project at Canada's biggest hackathon.
+**Hack The North 2023 Winner 🇨🇦:** selected as a finalist winning project at Canada's biggest hackathon.
 
-**🇩🇪 David Johnston International Experience Award:** awarded the maximum support for international co-op in Germany.
+**David Johnston International Experience Award 🇩🇪:** awarded the maximum support for international co-op in Germany.
 
-**🇨🇦 UofTHacks 2023 Honourable Mention:** recognized as a top project at the University of Toronto's hackathon.
+**UofTHacks 2023 Honourable Mention 🇨🇦:** recognized as a top project at the University of Toronto's hackathon.
 
-**🇨🇦 President's Scholarship of Distinction:** awarded Univesity of Waterloo's maximum admission/research scholarship.
+**President's Scholarship of Distinction 🇨🇦:** awarded Univesity of Waterloo's maximum admission/research scholarship.
 
-**🇨🇦 Governor General's Academic Medal:** recipient of Canada's highest academic honour from the Governor General of Canada.
+**Governor General's Academic Medal 🇨🇦:** recipient of Canada's highest academic honour from the Governor General of Canada.
 
-**🇸🇬 YTBC 2021 Certificate of Excellence:** selected as a top team at an international business challenge.
+**YTBC 2021 Certificate of Excellence 🇸🇬:** selected as a top team at an international business challenge.
 
 <h3 align="left">Skills</h3>
 
