@@ -1,6 +1,6 @@
 <h1 align="left">Mingchung Xia</h1>
 
-I'm a computer science student at the University of Waterloo. I'm interested in software, finance, physics, and venture capital. Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
+I'm a computer science student at the University of Waterloo. I'm interested in software, finance, physics, and venture capital.
 
 <h3 align="left">Experiences</h3>
 
@@ -28,6 +28,13 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 **Governor General's Academic Medal 🇨🇦:** recipient of Canada's highest academic honour from the Governor General of Canada.
 
 **YTBC 2021 Certificate of Excellence 🇸🇬:** selected as a top team at an international business challenge.
+
+<h3 align="left">Contect</h3>
+
+<div align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mingchung-xia/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m6xia@uwaterloo.ca)
+</div>
 
 <h3 align="left">Skills</h3>
 
