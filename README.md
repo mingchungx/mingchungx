@@ -11,7 +11,7 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 - Engineered thermal analysis software for bimodal fuel cell applications.
 
 **Venture Fellow @ Ripple Ventures 📈**
-- Pursued professional development in venture capital evaluations and networking.
+- Venture capital principals, company building, and networking.
 
 <h3 align="left">Achievements</h3>
 
