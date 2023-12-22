@@ -1,6 +1,6 @@
 <h1 align="left">Mingchung Xia</h1>
 
-Computer science student at the University of Waterloo, interested in software, finance, physics, and venture capital.
+Computer science student at the University of Waterloo.
 
 <h3 align="left">Experiences</h3>
 
