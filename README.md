@@ -4,14 +4,11 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 
 <h3 align="left">Experiences</h3>
 
-**Co-Founder @ Stealth Startup 💳** 
-- Building a credit optimization FinTech startup.
+**Co-Founder @ Stealth Startup 💳**
 
 **Software Engineering Intern @ German Aerospace Center (DLR) 🚀**
-- Engineered thermal analysis software for energy R&D at Germany's space agency.
 
 **Venture Fellow @ Ripple Ventures 📈**
-- Venture capital principals and startups with a leading Canadian VC firm.
 
 ###
 
