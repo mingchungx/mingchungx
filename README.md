@@ -6,9 +6,9 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 
 **💳 Stealth Startup**, Co-Founder
 
-**🚀 German Aerospace Center (DLR)**, Software Engineering Intern
+**🚀 German Aerospace Center (DLR)**, Software Engineering
 
-**📈 Ripple Ventures**, Venture Fellow
+**📈 Ripple Ventures**, Fellow
 
 ###
 
