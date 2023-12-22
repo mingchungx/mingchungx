@@ -4,11 +4,11 @@ I'm a computer science student at the University of Waterloo. I'm interested in 
 
 <h3 align="left">Experiences</h3>
 
-Co-Founder, **Stealth Startup 💳**
+**Stealth Startup**, Co-Founder
 
-Software Engineering Intern, **German Aerospace Center (DLR) 🚀**
+**German Aerospace Center (DLR)**, Software Engineering Intern
 
-Venture Fellow, **Ripple Ventures 📈**
+**Ripple Ventures**, Venture Fellow
 
 ###
 
