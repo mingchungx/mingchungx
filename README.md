@@ -1,6 +1,6 @@
 <h1 align="left">Mingchung Xia</h1>
 
-Computer science student at the University of Waterloo. Interested in software, finance, physics, and venture capital. Reach out to me at **m6xia@uwaterloo.ca** or **mingchung.xia@gmail.com**.
+Computer science student at the University of Waterloo, interested in software, finance, physics, and venture capital.
 
 <h3 align="left">Experiences</h3>
 
