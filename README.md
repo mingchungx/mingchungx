@@ -10,6 +10,12 @@ Computer science student at the University of Waterloo.
 
 **📈 Ripple Ventures**, Venture Fellow
 
+<h3 align="left">Achievements</h3>
+
+**🇺🇸 HackHarvard 2023 Winner**, MLH Sponsor Prize
+
+**🇨🇦 Hack The North 2023 Winner**, Overall Finalist
+
 ###
 
 <div align="left">
