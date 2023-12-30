@@ -10,6 +10,18 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 **📈 Ripple Ventures**, Venture Fellow
 
+<h3 align="left">Awards</h3>
+
+**HackHarvard Winner** (2023)
+
+**Hack The North Winner** (2023)
+
+**David Johnston International Experience Award** (2023)
+
+**President's Scholarship of Distinction** (2022)
+
+**Governor General's Academic Medal** (2022)
+
 ###
 
 <div align="left">
