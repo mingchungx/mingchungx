@@ -5,11 +5,13 @@ Computer science student at the University of Waterloo. Interested in software, 
 <h3 align="left">Experiences</h3>
 
 **💳 Stealth Startup**, Co-Founder
-- fe
+- Building a credit card payment and churning optimization startup
 
 **🚀 German Aerospace Center (DLR)**, Software Engineering Intern
+- Developed thermodynamic simulation software for the EU's sustainable R&D
 
 **📈 Ripple Ventures**, Venture Fellow
+- Professional development and networking in venture capital
 
 <h3 align="left">Awards</h3>
 
