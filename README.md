@@ -5,6 +5,7 @@ Computer science student at the University of Waterloo. Interested in software, 
 <h3 align="left">Experiences</h3>
 
 **💳 Stealth Startup**, Co-Founder
+- fe
 
 **🚀 German Aerospace Center (DLR)**, Software Engineering Intern
 
