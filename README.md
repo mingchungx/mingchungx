@@ -4,6 +4,9 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 <h3 align="left">Experiences</h3>
 
+**🖥️ University of Waterloo**, Undergraduate Research Assistant
+- Engineering topic-modelling machine learning algorithms for the SwiftNLP package
+
 **💳 Stealth Startup**, Co-Founder
 - Building a credit card payment and churning optimization startup
 
