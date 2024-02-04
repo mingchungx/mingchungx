@@ -4,7 +4,7 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 <h3 align="left">Experiences</h3>
 
-**🖥️ University of Waterloo**, Undergraduate Research Assistant
+**🖥️ University of Waterloo**, Research Assistant
 - Engineering topic-modelling machine learning algorithms for the SwiftNLP package
 
 **💳 Stealth Startup**, Co-Founder
@@ -17,6 +17,8 @@ Computer science student at the University of Waterloo. Interested in software, 
 - Professional development and networking in venture capital
 
 <h3 align="left">Awards</h3>
+
+**President's Research Award** (2024)
 
 **HackHarvard Winner** (2023)
 
