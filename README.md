@@ -6,7 +6,7 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 **🖥️ University of Waterloo**, Research Assistant
 
-**💳 Stealth Startup**, Co-Founder
+**💳 Eclipse**, Co-Founder
 
 **🚀 German Aerospace Center (DLR)**, Software Engineering Intern
 
