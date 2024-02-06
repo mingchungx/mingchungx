@@ -2,7 +2,7 @@
 
 Computer science student at the University of Waterloo. Interested in software, startups, finance, and physics.
 
-<h3 align="left">Experiences</h3>
+<h3 align="left">Experience</h3>
 
 **🖥️ University of Waterloo**, Research Assistant
 
