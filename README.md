@@ -5,16 +5,12 @@ Computer science student at the University of Waterloo. Interested in software, 
 <h3 align="left">Experiences</h3>
 
 **🖥️ University of Waterloo**, Research Assistant
-- Engineering topic-modelling machine learning algorithms for the SwiftNLP package
 
 **💳 Stealth Startup**, Co-Founder
-- Building a credit card payment and churning optimization startup
 
 **🚀 German Aerospace Center (DLR)**, Software Engineering Intern
-- Developed thermodynamic simulation software for the EU's sustainable R&D
 
 **📈 Ripple Ventures**, Venture Fellow
-- Professional development and networking in venture capital
 
 <h3 align="left">Awards</h3>
 
