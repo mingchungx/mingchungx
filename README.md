@@ -4,7 +4,7 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 <h3 align="left">Experience</h3>
 
-**🖥️ University of Waterloo**, Research Assistant
+**🖥️ University of Waterloo**, Machine Learning Researcher
 
 **💳 Eclipse**, Co-Founder
 
