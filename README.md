@@ -10,7 +10,7 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 **🖥️ University of Waterloo**, Machine Learning Researcher
 
-**🚀 German Aerospace Center (DLR)**, Software Engineering Intern
+**🚀 German Aerospace Center (DLR)**, Software Engineer Intern
 
 **📈 Ripple Ventures**, Venture Fellow
 
