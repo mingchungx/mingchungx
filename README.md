@@ -6,6 +6,8 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 **💳 Eclipse**, Co-Founder
 
+**🤖 The Games Institute**, Machine Learning Researcher
+
 **🖥️ University of Waterloo**, Machine Learning Researcher
 
 **🚀 German Aerospace Center (DLR)**, Software Engineering Intern
