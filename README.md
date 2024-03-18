@@ -1,6 +1,8 @@
 <h1 align="left">Mingchung Xia</h1>
 
-Computer science student at the University of Waterloo. Interested in software, startups, finance, and physics.
+CS @ University of Waterloo
+
+Interested in software, machine learning, startups, finance, and physics.
 
 <h3 align="left">Experience</h3>
 
@@ -16,14 +18,4 @@ Computer science student at the University of Waterloo. Interested in software, 
 
 <h3 align="left">Awards</h3>
 
-**President's Research Award** (2024)
-
-**HackHarvard Winner** (2023)
-
-**Hack The North Winner** (2023)
-
-**David Johnston International Experience Award** (2023)
-
-**President's Scholarship of Distinction** (2022)
-
-**Governor General's Academic Medal** (2022)
+**President's Research Award** (2024), **HackHarvard Winner, MLH Award** (2023), **Hack The North Winner, Finalist** (2023), **David Johnston International Experience Award** (2023), **President's Scholarship of Distinction** (2022), **Governor General's Academic Medal** (2022)
