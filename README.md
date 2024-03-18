@@ -2,7 +2,7 @@
 
 I'm a computer science student at the University of Waterloo. Currently, I'm building Eclipse, check it out [here](https://eclipsecard.net)! I am also doing machine learning research at the Waterloo Human-Computer Interaction Lab, which you can find [here](https://git.uwaterloo.ca/jrwallace/swiftnlp/-/tree/hnsw). 
 
-Feel free to reach out to me at mingchung@eclipsecard.net or m6xia@uwaterloo.ca!
+Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
 <h3 align="left">Experience</h3>
 
