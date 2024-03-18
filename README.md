@@ -1,7 +1,5 @@
 <h1 align="left">Mingchung Xia</h1>
 
-CS @ University of Waterloo
-
 I'm currently building Eclipse, check it out [here](https://eclipsecard.net)! I am also doing machine learning research at the University of Waterloo, which you can find [here](https://git.uwaterloo.ca/jrwallace/swiftnlp/-/tree/hnsw). Feel free to reach out to me at mingchung@eclipsecard.net or m6xia@uwaterloo.ca. 
 
 <h3 align="left">Experience</h3>
@@ -15,6 +13,10 @@ I'm currently building Eclipse, check it out [here](https://eclipsecard.net)! I 
 **🚀 German Aerospace Center (DLR)**, Software Engineer Intern
 
 **📈 Ripple Ventures**, Venture Fellow
+
+<h3 align="left">Education</h3>
+
+**🎓 University of Waterloo**, Computer Science and Mathematics
 
 <h3 align="left">Awards</h3>
 
