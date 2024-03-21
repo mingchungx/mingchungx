@@ -1,6 +1,6 @@
 <h1 align="left">Mingchung Xia</h1>
 
-I'm a computer science student at the University of Waterloo. Currently, I'm building Eclipse, check it out [here](https://eclipsecard.net)! I am also doing machine learning research at the Waterloo Human-Computer Interaction Lab, which you can find [here](https://git.uwaterloo.ca/jrwallace/swiftnlp/-/tree/hnsw). 
+I'm a computer science student at the University of Waterloo. Currently, I'm building Eclipse, check it out [here](https://eclipsecard.net)! I am also doing machine learning research at the Waterloo Human-Computer Interaction Lab, which you can find [here](https://git.uwaterloo.ca/m6xia). 
 
 Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
