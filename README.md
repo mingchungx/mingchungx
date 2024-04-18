@@ -18,7 +18,7 @@ Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
 <h3 align="left">Education</h3>
 
-**🎓 University of Waterloo**, Computer Science and Mathematics
+**🎓 University of Waterloo**, Computer Science
 
 <h3 align="left">Awards</h3>
 
