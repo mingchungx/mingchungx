@@ -8,9 +8,9 @@ Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
 **💳 Eclipse**, Co-Founder
 
-**🖥️ The Games Institute**, Machine Learning Researcher
-
 **🔬 University of Waterloo**, Machine Learning Researcher
+
+**🖥️ The Games Institute**, Machine Learning Researcher
 
 **🚀 German Aerospace Center (DLR)**, Software Engineer Intern
 
