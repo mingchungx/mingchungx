@@ -1,6 +1,6 @@
 <h1 align="left">Mingchung Xia</h1>
 
-I'm a computer science student and machine learning researcher at the University of Waterloo. Currently, I'm building Eclipse, check it out [here](https://eclipsecard.net)! My research work is also [here](https://git.uwaterloo.ca/m6xia). 
+I'm a computer science student and machine learning researcher at the University of Waterloo. Currently, I'm building Eclipse, which is now available for download on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)!
 
 Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
