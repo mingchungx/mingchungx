@@ -22,4 +22,4 @@ Feel free to reach out to me at m6xia@uwaterloo.ca or mingchung@eclipsecard.net!
 
 <h3 align="left">Awards</h3>
 
-GenAI Genesis Judging Panel (2024), President's Research Award (2024), HackHarvard Winner - MLH Award (2023), Hack The North Winner - Finalist (2023), David Johnston International Experience Award (2023), President's Scholarship of Distinction (2022), IB Perfect Score - 45/45 (2022), Governor General's Academic Medal (2022)
+E-Launch Pitch Competition Winner (2024), GenAI Genesis Judging Panel (2024), President's Research Award (2024), HackHarvard Winner - MLH Award (2023), Hack The North Winner - Finalist (2023), David Johnston International Experience Award (2023), President's Scholarship of Distinction (2022), IB Perfect Score - 45/45 (2022), Governor General's Academic Medal (2022)
