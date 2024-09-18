@@ -1,6 +1,10 @@
 <h1 align="left">Mingchung Xia</h1>
 
-I'm a computer science student and machine learning researcher at the University of Waterloo. Currently, I'm building [Eclipse](https://eclipsecard.net), a smart digital wallet, which is now available for download on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)! My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swiftnlp), where I'm developing hierarchical agglomerative clustering algorithms for vector databases.
+I'm a computer science student and machine learning researcher at the University of Waterloo. 
+
+Currently, I'm building [Eclipse](https://eclipsecard.net), a smart digital wallet, which is now available for download on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)!
+
+My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swiftnlp). I'm working on building a cool Swift package for topic modelling, and exploring hierarchical clustering algorithms for vector databases :)
 
 **📧 m6xia@uwaterloo.ca** or **mingchung@eclipsecard.net**
 
