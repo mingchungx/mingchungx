@@ -6,7 +6,7 @@ Currently, I'm working on [Eclipse](https://eclipsecard.net), a smart digital wa
 
 My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swiftnlp). I'm building a cool Swift package for NLP topic modeling, for health researchers :)
 
-**📧 m6xia@uwaterloo.ca** or **mingchung@eclipsecard.net**
+📧 m6xia@uwaterloo.ca **or** mingchung@eclipsecard.net
 
 ## Experience
 
