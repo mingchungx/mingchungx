@@ -1,4 +1,4 @@
-<h1 align="left">Mingchung Xia</h1>
+# Mingchung Xia
 
 I'm a computer science student and machine learning researcher at the University of Waterloo. 
 
@@ -8,7 +8,7 @@ My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swift
 
 **📧 m6xia@uwaterloo.ca** or **mingchung@eclipsecard.net**
 
-<h3 align="left">Experience</h3>
+## Experience
 
 **💳 Eclipse**, Co-Founder
 
@@ -20,10 +20,10 @@ My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swift
 
 **🌱 Ripple Ventures**, Venture Fellow
 
-<h3 align="left">Education</h3>
+## Education
 
 **🎓 University of Waterloo**, Computer Science
 
-<h3 align="left">other random stuff</h3>
+## other random stuff
 
 Hack The North - Sponsor (2024), ECoop Pitch Competition Winner (2024), GenAI Genesis - Judge (2024), President's Research Award (2024), HackHarvard Winner - MLH (2023), Hack The North Winner - Finalist (2023), David Johnston International Experience Award (2023), President's Scholarship of Distinction (2022), IB Perfect Score - 45/45 (2022), Governor General's Academic Medal (2022)
