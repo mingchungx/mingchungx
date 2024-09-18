@@ -2,9 +2,9 @@
 
 I'm a computer science student and machine learning researcher at the University of Waterloo. 
 
-Currently, I'm building [Eclipse](https://eclipsecard.net), a smart digital wallet, which is now available for download on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)!
+Currently, I'm working on [Eclipse](https://eclipsecard.net), a smart digital wallet app, which is now available for download on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)!
 
-My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swiftnlp). I'm working on building a cool Swift package for NLP topic modeling, for health researchers :)
+My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swiftnlp). I'm building a cool Swift package for NLP topic modeling, for health researchers :)
 
 **📧 m6xia@uwaterloo.ca** or **mingchung@eclipsecard.net**
 
