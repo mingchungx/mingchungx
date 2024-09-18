@@ -20,10 +20,6 @@ My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swift
 
 **🌱 Ripple Ventures**, Venture Fellow
 
-## Education
-
-**🎓 University of Waterloo**, Computer Science
-
 ## other random stuff :)
 
 Hack The North - Sponsor (2024), Computing Councils of Canada - Panelist (2024), ECoop Pitch Competition Winner (2024), GenAI Genesis - Judge (2024), President's Research Award (2024), HackHarvard Winner - MLH (2023), Hack The North Winner - Finalist (2023), David Johnston International Experience Award (2023), President's Scholarship of Distinction (2022), IB Perfect Score - 45/45 (2022), Governor General's Academic Medal (2022)
