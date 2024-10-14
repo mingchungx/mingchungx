@@ -10,13 +10,13 @@ My current research can be found [here](https://git.uwaterloo.ca/jrwallace/swift
 
 ## Experience
 
-**💳 Eclipse**, Co-Founder
+**💳 Eclipse**, Co-Founder - Engineering
 
 **🔬 University of Waterloo**, Machine Learning Researcher
 
 **🖥️ The Games Institute**, Machine Learning Researcher
 
-**🚀 German Aerospace Center (DLR)**, Software Engineer Intern
+**🚀 German Aerospace Center (DLR)**, Software Engineering Intern
 
 **🌱 Ripple Ventures**, Venture Fellow
 
